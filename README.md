@@ -87,7 +87,7 @@ You can modify the `options` object to change the appearance and behavior of the
 ---
 
 ## 📷 Screenshots  
-![WhatsEase Screenshot](./screenshot.png)  
+![WhatsEase Screenshot](WhatsEase/WhatsEase/screenshot.png)  
 
 ---
 
